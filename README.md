@@ -1,5 +1,5 @@
 # GVirtualTest
-
+```bash
 1166 INFO  br.com.rrlabs.guichevirtual.HelloWorld - 01 - How to replace...
 1176 INFO  br.com.rrlabs.guichevirtual.HelloWorld - Change from '  aa bbbbb   ccc     d  ' to 'aa bbbbb ccc d'
 
@@ -17,3 +17,4 @@
 1176 INFO  br.com.rrlabs.guichevirtual.HelloWorld - isValidEmail("rodrigoror@gmail.com")=true
 1176 INFO  br.com.rrlabs.guichevirtual.HelloWorld - isValidEmail("rodrigororAtgmail.com")=false
 1176 INFO  br.com.rrlabs.guichevirtual.HelloWorld - isValidEmail("rodrigoror@gmailcom")=false
+```
